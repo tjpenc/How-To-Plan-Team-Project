@@ -1,1 +1,3 @@
-# How-To-Plan-Team-Project
+# How-To-Plan-Team-Projec
+
+#updated README
